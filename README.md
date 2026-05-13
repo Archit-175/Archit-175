@@ -104,7 +104,7 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 
 ---
 
-## �� Domain Expansion: GitHub Analytics
+## 📊 Domain Expansion: GitHub Analytics
 
 <div align="center">
 
@@ -130,6 +130,8 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 ---
 
 ## 🔗 Domain Expansion: Connect
+
+_Replace placeholders with your actual profile links._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1221?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/your-handle)
 [![GitHub](https://img.shields.io/badge/GitHub-0b1221?style=for-the-badge&logo=github&logoColor=e2e8f0)](https://github.com/Archit-175)
