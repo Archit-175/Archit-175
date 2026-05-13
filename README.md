@@ -12,7 +12,7 @@ _Sleek systems. Clean automation. Product-led engineering._
 
 ---
 
-## ⚡ Domain Expansion: About Me
+## About Me
 
 Final-year AI undergraduate focused on **AI systems, workflow automation, and product-tech execution**. I build full-stack platforms that ship, scale, and simplify complex workflows — from ML pipelines to production-ready apps. I like blending **systems thinking**, **product clarity**, and **hands-on engineering**.
 
@@ -20,7 +20,7 @@ Final-year AI undergraduate focused on **AI systems, workflow automation, and pr
 
 ---
 
-## 🧩 Domain Expansion: Featured Projects
+## Featured Projects
 
 ### **SAMPARK SVNIT**
 _Workflow automation platform for approvals, document routing, and audit trails._
@@ -79,7 +79,7 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 
 ---
 
-## 🛰️ Domain Expansion: Tech Stack
+## 🛰️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0b1221?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![C++](https://img.shields.io/badge/C%2B%2B-0b1221?style=for-the-badge&logo=c%2B%2B&logoColor=79c0ff)
@@ -95,7 +95,7 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 
 ---
 
-## 🏛️ Domain Expansion: Leadership & Community
+## 🏛️Leadership & Community
 
 - Student Council, SVNIT
 - ACM Secretary
@@ -104,7 +104,7 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 
 ---
 
-## 📊 Domain Expansion: GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -119,7 +119,7 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 
 ---
 
-## 🎯 Domain Expansion: Current Focus
+## 🎯 Current Focus
 
 - AI Product Systems
 - Workflow Automation
@@ -129,7 +129,7 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 
 ---
 
-## 🔗 Domain Expansion: Connect
+## 🔗 Connect
 
 _Replace placeholders with your actual profile links._
 
