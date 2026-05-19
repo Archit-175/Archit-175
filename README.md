@@ -45,7 +45,7 @@ _RL-enhanced emotion recognition using D3QN + CNN over EEG signals._
 ![Python](https://img.shields.io/badge/Python-0b1221?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![NumPy](https://img.shields.io/badge/NumPy-0b1221?style=for-the-badge&logo=numpy&logoColor=38bdf8)
 
-**Repo:** [github.com/Archit-175/EEG-Emotion-Recognition](https://github.com/Archit-175/EEG-Emotion-Recognition-RL)
+**Repo:** [github.com/Archit-175/EEG-Emotion-Recognition-RL]
 
 ---
 
@@ -59,7 +59,7 @@ _U-Net segmentation with uncertainty estimation for clinical-grade reliability._
 ![Python](https://img.shields.io/badge/Python-0b1221?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0b1221?style=for-the-badge&logo=opencv&logoColor=5eead4)
 
-**Repo:** [github.com/Archit-175/Kidney-Tumor-Segmentation](https://github.com/Archit-175/KidneyTumorSegmentation-ARUGD)
+**Repo:** [github.com/Archit-175/KidneyTumorSegmentation-ARUGD]
 
 ---
 
@@ -73,7 +73,7 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 ![Python](https://img.shields.io/badge/Python-0b1221?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![Docker](https://img.shields.io/badge/Docker-0b1221?style=for-the-badge&logo=docker&logoColor=38bdf8)
 
-**Repo:** [github.com/Archit-175/Pneumonia-Detection].(https://github.com/Archit-175/pneumonia-detection)
+**Repo:** [github.com/Archit-175/Pneumonia-Detection]
 
 ---
 
