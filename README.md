@@ -16,7 +16,7 @@ _Sleek systems. Clean automation. Product-led engineering._
 
 Final-year AI undergraduate focused on **AI systems, workflow automation, and product-tech execution**. I build full-stack platforms that ship, scale, and simplify complex workflows — from ML pipelines to production-ready apps. I like blending **systems thinking**, **product clarity**, and **hands-on engineering**.
 
-**Focus:** AI Systems · Workflow Automation · Product-Tech · Full Stack · Leadership · Problem Solving
+**Focus:** AI Systems · Workflow Automation · Product-Tech · Product Management · Leadership · Problem Solving
 
 ---
 
@@ -33,8 +33,6 @@ _Workflow automation platform for approvals, document routing, and audit trails.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1221?style=for-the-badge&logo=postgresql&logoColor=4fa1ff)
 ![React](https://img.shields.io/badge/React-0b1221?style=for-the-badge&logo=react&logoColor=61dafb)
 
-**Repo:** [github.com/Archit-175/SAMPARK-SVNIT](https://github.com/Archit-175/SAMPARK-SVNIT)
-
 ---
 
 ### **EEG Emotion Recognition**
@@ -47,7 +45,7 @@ _RL-enhanced emotion recognition using D3QN + CNN over EEG signals._
 ![Python](https://img.shields.io/badge/Python-0b1221?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![NumPy](https://img.shields.io/badge/NumPy-0b1221?style=for-the-badge&logo=numpy&logoColor=38bdf8)
 
-**Repo:** [github.com/Archit-175/EEG-Emotion-Recognition](https://github.com/Archit-175/EEG-Emotion-Recognition)
+**Repo:** [github.com/Archit-175/EEG-Emotion-Recognition](https://github.com/Archit-175/EEG-Emotion-Recognition-RL)
 
 ---
 
@@ -61,7 +59,7 @@ _U-Net segmentation with uncertainty estimation for clinical-grade reliability._
 ![Python](https://img.shields.io/badge/Python-0b1221?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0b1221?style=for-the-badge&logo=opencv&logoColor=5eead4)
 
-**Repo:** [github.com/Archit-175/Kidney-Tumor-Segmentation](https://github.com/Archit-175/Kidney-Tumor-Segmentation)
+**Repo:** [github.com/Archit-175/Kidney-Tumor-Segmentation](https://github.com/Archit-175/KidneyTumorSegmentation-ARUGD)
 
 ---
 
@@ -75,7 +73,7 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 ![Python](https://img.shields.io/badge/Python-0b1221?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![Docker](https://img.shields.io/badge/Docker-0b1221?style=for-the-badge&logo=docker&logoColor=38bdf8)
 
-**Repo:** [github.com/Archit-175/Pneumonia-Detection](https://github.com/Archit-175/Pneumonia-Detection)
+**Repo:** [github.com/Archit-175/Pneumonia-Detection].(https://github.com/Archit-175/pneumonia-detection)
 
 ---
 
@@ -124,28 +122,8 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 - AI Product Systems
 - Workflow Automation
 - Product-Tech Systems
-- Scalable Backend Platforms
-- Intelligent Applications
+- Product Management
+- Intelligent Applications Innovation
 
 ---
 
-## 🔗 Connect
-
-_Replace placeholders with your actual profile links._
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1221?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-0b1221?style=for-the-badge&logo=github&logoColor=e2e8f0)](https://github.com/Archit-175)
-[![Email](https://img.shields.io/badge/Email-0b1221?style=for-the-badge&logo=gmail&logoColor=f87171)](mailto:youremail@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0b1221?style=for-the-badge&logo=leetcode&logoColor=f59e0b)](https://leetcode.com/your-handle)
-
----
-
-<details>
-<summary><strong>🖼️ Banner Suggestions</strong></summary>
-
-- Capsule Render: `https://capsule-render.vercel.app/api?type=rect&color=0:0b1221,100:111827&height=130&section=header&text=Archit%20Savaliya&fontColor=e2e8f0&fontSize=38&desc=AI%20Systems%20%7C%20Product-Tech%20%7C%20Automation&descAlignY=75&descSize=16`
-- Alternate Theme: `https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f172a&height=160&section=header&text=Archit%20Savaliya&fontColor=e2e8f0&fontSize=40&desc=Domain%20Expansion%3A%20Scalable%20Systems&descAlignY=70&descSize=16`
-
-</details>
-
-> _"Build systems with clarity, ship with intent."_
