@@ -106,10 +106,8 @@ _CNN-based classification for pneumonia detection in chest X-rays._
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-175&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Archit-175&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit-175&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Archit-175&theme=tokyo-night&hide_border=true)
 
