@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0b1221,100:111827&height=130&section=header&text=Archit%20Savaliya&fontColor=e2e8f0&fontSize=38&desc=AI%20Product%20Builder%20%C2%B7%20Full-Stack%20Generalist&descAlignY=75&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0b1221,100:111827&height=130&section=header&text=Archit%20Savaliya&fontColor=e2e8f0&fontSize=38&desc=AI%20Product%20Builder%20%C2%B7%20Full-Stack%20Generalist&descAlignY=75&descSize=16&v=2)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=780&lines=AI+Product+Builder+%2B+Full-Stack+Generalist;I+ship+intelligent+products+end-to-end;Deep+in+AI+products%2C+broad+across+the+stack)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=780&lines=AI+Product+Builder+%2B+Full-Stack+Generalist;I+ship+intelligent+products+end-to-end;Deep+in+AI+products%2C+broad+across+the+stack&v=2)
 
 **B.Tech in Artificial Intelligence · SVNIT Surat · Final Year**
 
@@ -114,7 +114,7 @@ Data engineering & analytics on SQL Server ([warehouse](https://github.com/Archi
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Archit-175&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Archit-175&theme=tokyonight&hide_border=true&v=2)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Archit-175&theme=tokyo-night&hide_border=true)
