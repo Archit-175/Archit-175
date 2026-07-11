@@ -114,7 +114,9 @@ Data engineering & analytics on SQL Server ([warehouse](https://github.com/Archi
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Archit-175&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-175&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Archit-175&theme=tokyonight&hide_border=true)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Archit-175&theme=tokyo-night&hide_border=true)
